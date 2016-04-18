@@ -3,5 +3,5 @@
 *.png
 *.PNG
 *.jpeg
-/images/*
+/images
 /.idea
