@@ -25,7 +25,7 @@
 						(endsWith(strtolower($file), ".png")) ||
 						(endsWith(strtolower($file), ".jpeg")))
 					{
-						echo "<img src='images/$file'><br><br>";
+						echo "<img src='images/$file' width='640px'><br><br>";
 					}
 				}
 			}
@@ -36,8 +36,8 @@
 ?>
 <body style="background-image:url('tile_background.jpg');">
 	<center>
-		<span style="color: #333333;font-family: Impact, Charcoal, sans-serif; font-size:70pt;">
-			Daphne
+		<span style="color: #F0F8FF; background-color: #333333; font-family: Impact, Charcoal, sans-serif; font-size:30pt;">
+			Sams 1968 Mercury Cougar
 		</span>
 
 		<br><br>
